@@ -53,5 +53,6 @@ app.delete('/api/notes/:id', (req, res) => {
     res.sendStatus(200);
 });
 
-app.listen(PORT, () =>
-    console.log(`Note Taker listening at http://localhost:${PORT}`));
+app.listen(PORT, () => {
+    // console.log(`Note Taker listening at http://localhost:${PORT}`)
+});
