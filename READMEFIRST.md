@@ -12,6 +12,10 @@ This repository contains HTML, CSS, and Javascript to run the front-end of the a
 1. Tutor session with Michael Calimbas to fix code issues in my server.js file. Learnt correct declarations for note deletion, correcting file paths for app.use to access front end urls, and deployment to heroku.
 2. Ask BCS team when encountering error to deploying application to heroku. Learnt providing heroku access to dynamic port.
 
+# MA-Note-Taker Application Screenshots
+![alt text](./public/assets/images/MA-Note-Taker1.jpeg)
+![alt text](./public/assets/images/MA-Note-Taker2.jpeg)
+
 # Github Repository URL
 https://github.com/afzama/MA-Note-Taker 
 
